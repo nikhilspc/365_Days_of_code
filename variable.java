@@ -7,7 +7,7 @@ class Variable {
         int age = 25;       
         
         // String variable  
-        String name = "nikhil"; 
+        String name = "ram"; 
         
         // Double variable 
         double salary = 50000.50;     

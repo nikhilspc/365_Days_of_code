@@ -5,8 +5,6 @@ class Variable {
         
         // Integer variable  
         int age = 25;       
-        
-        // String variable  
         String name = "ram"; 
         
         // Double variable 

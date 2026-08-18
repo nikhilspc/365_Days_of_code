@@ -10,7 +10,6 @@ class Variable {
         // Double variable 
         double salary = 50000.50;     
 
-        // Displaying the values of variables
         System.out.println("Age: " + age);          
         System.out.println("Name: " + name);        
         System.out.println("Salary: " + salary);
